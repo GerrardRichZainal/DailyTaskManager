@@ -1,6 +1,7 @@
 ## Laporan Lab Praktikum Assignment 2 - Daily Task Manager
 
 Gerrard Rich Zainal
+
 NIM : 0806022410004
 
 Saya menggunakan Visual Studio Code ( VS Code ) dengan Extension Pack for Java  sebagai eksekusi program yang dibuat melalui terminal Program ini berisi : 
