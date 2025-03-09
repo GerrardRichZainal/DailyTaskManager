@@ -16,4 +16,4 @@ Saya menggunakan Visual Studio Code ( VS Code ) dengan Extension Pack for Java  
 9. Menu akan berulang hingga pengguna memilih untuk keluar dari aplikasi.
 10. Berbagai warna dan ascii art untuk hiasan
 
-Tantangan yang saya hadapi dalam membuat program ini ialah masih belum terbiasa dengan beberapa penggunaan harus memakai huruf kapitas atau huruf besar dan masih ada beberapa kode yang error maka dari itu saya melihat referensi dari ChatGPT sebagai pembantu untuk memfix-kan beberapa kode yang error
+Tantangan yang saya hadapi dalam membuat program ini ialah masih belum terbiasa dengan beberapa penggunaan harus memakai huruf kapital atau huruf besar dan masih ada beberapa kode yang error maka dari itu saya melihat referensi dari ChatGPT sebagai pembantu untuk memfix-kan beberapa kode yang error
